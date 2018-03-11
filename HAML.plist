@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>BBEditDocumentType</key>
+    <string>CodelessLanguageModule</string>
+    <key>com.barebones.DocumentType</key>
+    <string>CodelessLanguageModule</string>
+    <key>BBLMLanguageCode</key>
+    <string><![CDATA[HAML]]></string>
+    <key>BBLMLanguageDisplayName</key>
+    <string><![CDATA[HAML]]></string>
+    <key>BBLMSuffixMap</key>
+    <array>
+        <dict>
+            <key>BBLMLanguageSuffix</key>
+            <string><![CDATA[.haml]]></string>
+        </dict>
+    </array>
+    <key>BBLMColorsSyntax</key>
+    <true/>
+    <key>BBLMIsCaseSensitive</key>
+    <false/>
+    <key>BBLMScansFunctions</key>
+    <true/>
+    <key>BBLMSupportsTextCompletion</key>
+    <true/>
+    <key>BBLMKeywordList</key>
+    <array>
+        <string><![CDATA[%a]]></string>
+        <string><![CDATA[%abbr]]></string>
+        <string><![CDATA[%address]]></string>
+        <string><![CDATA[%area]]></string>
+        <string><![CDATA[%article]]></string>
+        <string><![CDATA[%aside]]></string>
+        <string><![CDATA[%audio]]></string>
+        <string><![CDATA[%b]]></string>
+        <string><![CDATA[%base]]></string>
+        <string><![CDATA[%bdi]]></string>
+        <string><![CDATA[%bdo]]></string>
+        <string><![CDATA[%blockquote]]></string>
+        <string><![CDATA[%body]]></string>
+        <string><![CDATA[%br]]></string>
+        <string><![CDATA[%button]]></string>
+        <string><![CDATA[%canvas]]></string>
+        <string><![CDATA[%caption]]></string>
+        <string><![CDATA[%cite]]></string>
+        <string><![CDATA[%code]]></string>
+        <string><![CDATA[%col]]></string>
+        <string><![CDATA[%colgroup]]></string>
+        <string><![CDATA[%data]]></string>
+        <string><![CDATA[%datalist]]></string>
+        <string><![CDATA[%dd]]></string>
+        <string><![CDATA[%del]]></string>
+        <string><![CDATA[%details]]></string>
+        <string><![CDATA[%dfn]]></string>
+        <string><![CDATA[%dialog]]></string>
+        <string><![CDATA[%div]]></string>
+        <string><![CDATA[%dl]]></string>
+        <string><![CDATA[%dt]]></string>
+        <string><![CDATA[%em]]></string>
+        <string><![CDATA[%embed]]></string>
+        <string><![CDATA[%fieldset]]></string>
+        <string><![CDATA[%figcaption]]></string>
+        <string><![CDATA[%figure]]></string>
+        <string><![CDATA[%font]]></string>
+        <string><![CDATA[%footer]]></string>
+        <string><![CDATA[%form]]></string>
+        <string><![CDATA[%h1]]></string>
+        <string><![CDATA[%head]]></string>
+        <string><![CDATA[%header]]></string>
+        <string><![CDATA[%hgroup]]></string>
+        <string><![CDATA[%hr]]></string>
+        <string><![CDATA[%html]]></string>
+        <string><![CDATA[%i]]></string>
+        <string><![CDATA[%iframe]]></string>
+        <string><![CDATA[%img]]></string>
+        <string><![CDATA[%input]]></string>
+        <string><![CDATA[%ins]]></string>
+        <string><![CDATA[%kbd]]></string>
+        <string><![CDATA[%label]]></string>
+        <string><![CDATA[%legend]]></string>
+        <string><![CDATA[%li]]></string>
+        <string><![CDATA[%link]]></string>
+        <string><![CDATA[%main]]></string>
+        <string><![CDATA[%map]]></string>
+        <string><![CDATA[%mark]]></string>
+        <string><![CDATA[%meta]]></string>
+        <string><![CDATA[%meter]]></string>
+        <string><![CDATA[%nav]]></string>
+        <string><![CDATA[%noscript]]></string>
+        <string><![CDATA[%object]]></string>
+        <string><![CDATA[%ol]]></string>
+        <string><![CDATA[%optgroup]]></string>
+        <string><![CDATA[%option]]></string>
+        <string><![CDATA[%output]]></string>
+        <string><![CDATA[%p]]></string>
+        <string><![CDATA[%param]]></string>
+        <string><![CDATA[%picture]]></string>
+        <string><![CDATA[%pre]]></string>
+        <string><![CDATA[%progress]]></string>
+        <string><![CDATA[%q]]></string>
+        <string><![CDATA[%rp]]></string>
+        <string><![CDATA[%rt]]></string>
+        <string><![CDATA[%rtc]]></string>
+        <string><![CDATA[%ruby]]></string>
+        <string><![CDATA[%s]]></string>
+        <string><![CDATA[%samp]]></string>
+        <string><![CDATA[%script]]></string>
+        <string><![CDATA[%section]]></string>
+        <string><![CDATA[%select]]></string>
+        <string><![CDATA[%slot]]></string>
+        <string><![CDATA[%small]]></string>
+        <string><![CDATA[%source]]></string>
+        <string><![CDATA[%span]]></string>
+        <string><![CDATA[%strong]]></string>
+        <string><![CDATA[%style]]></string>
+        <string><![CDATA[%sub]]></string>
+        <string><![CDATA[%summary]]></string>
+        <string><![CDATA[%sup]]></string>
+        <string><![CDATA[%table]]></string>
+        <string><![CDATA[%tbody]]></string>
+        <string><![CDATA[%td]]></string>
+        <string><![CDATA[%template]]></string>
+        <string><![CDATA[%textarea]]></string>
+        <string><![CDATA[%tfoot]]></string>
+        <string><![CDATA[%th]]></string>
+        <string><![CDATA[%thead]]></string>
+        <string><![CDATA[%time]]></string>
+        <string><![CDATA[%title]]></string>
+        <string><![CDATA[%tr]]></string>
+        <string><![CDATA[%track]]></string>
+        <string><![CDATA[%u]]></string>
+        <string><![CDATA[%ul]]></string>
+        <string><![CDATA[%var]]></string>
+        <string><![CDATA[%video]]></string>
+        <string><![CDATA[%wbr]]></string>
+        <string><![CDATA[h]]></string>
+        <string><![CDATA[yield]]></string>
+        <string><![CDATA[stylesheet_link_tag]]></string>
+        <string><![CDATA[javascript_include_tag]]></string>
+        <string><![CDATA[if]]></string>
+    </array>
+    <key>Language Features</key>
+    <dict>
+        <key>Comment Pattern</key>
+        <string><![CDATA[(?x:
+            (/.+$)   |
+            (-\#.+$)
+        )]]></string>
+        <key>Open Statement Blocks</key>
+        <string><![CDATA[(?x:
+            ("%") |
+            ("\.") |
+            ("\#")
+        )]]></string>
+        <key>Close Statement Blocks</key>
+        <string><![CDATA[(\n)]]></string>
+        <key>Identifier and Keyword Character Class</key>
+        <!-- Example: <string>a-zA-Z0-9_</string> -->
+        <string><![CDATA[a-zA-Z0-9_%.+$@#-]]></string>
+        
+        <key>String Pattern</key>
+        <string><![CDATA[(?x:
+            (".+?")    |
+            ('.+?')    |
+            (\.[\w-]+) |
+            (\#[\w-]+)
+        )]]></string>
+        
+    </dict>
+</dict>
+</plist>
